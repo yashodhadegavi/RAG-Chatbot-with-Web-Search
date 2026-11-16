@@ -108,9 +108,5 @@ streamlit run app.py
 - [ ] Page-level citations with highlights
 - [ ] DOCX and TXT support
 
-## 👤 About Me
-
-**Your Name** · Aspiring AI / Data Science professional
-📧 your.email@example.com · [LinkedIn](https://www.linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
 
 ⭐ If you found this project useful, consider giving it a star.
